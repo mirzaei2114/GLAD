@@ -1,4 +1,5 @@
-export INSTANCE_DIR='/hdd/Datasets/PCBBank'
+# export INSTANCE_DIR='/hdd/Datasets/PCBBank'
+export INSTANCE_DIR='/hdd/Datasets/MVTec-AD'
 export OUTPUT_DIR="20000step_bs32_eps_anomaly2_multiclass"
 export SEED=0
 
